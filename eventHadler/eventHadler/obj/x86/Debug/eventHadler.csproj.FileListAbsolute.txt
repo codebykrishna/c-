@@ -1,0 +1,4 @@
+c:\users\ktuser\documents\visual studio 2010\Projects\eventHadler\eventHadler\bin\Debug\eventHadler.exe
+c:\users\ktuser\documents\visual studio 2010\Projects\eventHadler\eventHadler\bin\Debug\eventHadler.pdb
+c:\users\ktuser\documents\visual studio 2010\Projects\eventHadler\eventHadler\obj\x86\Debug\eventHadler.exe
+c:\users\ktuser\documents\visual studio 2010\Projects\eventHadler\eventHadler\obj\x86\Debug\eventHadler.pdb
